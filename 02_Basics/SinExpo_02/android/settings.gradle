@@ -1,0 +1,3 @@
+rootProject.name = 'SinExpo_02'
+
+include ':app'
