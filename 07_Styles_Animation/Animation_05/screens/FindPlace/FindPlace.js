@@ -29,6 +29,7 @@ class FindPlaceScreen extends Component {
 
   // ANIMACION 2
   placesSearchHandler = () => {
+    // HAY MAS METODOS QUE TIMING PARA HACER ANIMACIONES
     Animated.timing(this.state.removeAnim, {
       toValue: 0,
       duration: 500,
